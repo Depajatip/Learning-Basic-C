@@ -1,0 +1,14 @@
+E:\depaa\depaa-Perulangan\bin\Debug\net9.0\depaa-Perulangan.exe
+E:\depaa\depaa-Perulangan\bin\Debug\net9.0\depaa-Perulangan.deps.json
+E:\depaa\depaa-Perulangan\bin\Debug\net9.0\depaa-Perulangan.runtimeconfig.json
+E:\depaa\depaa-Perulangan\bin\Debug\net9.0\depaa-Perulangan.dll
+E:\depaa\depaa-Perulangan\bin\Debug\net9.0\depaa-Perulangan.pdb
+E:\depaa\depaa-Perulangan\obj\Debug\net9.0\depaa-Perulangan.GeneratedMSBuildEditorConfig.editorconfig
+E:\depaa\depaa-Perulangan\obj\Debug\net9.0\depaa-Perulangan.AssemblyInfoInputs.cache
+E:\depaa\depaa-Perulangan\obj\Debug\net9.0\depaa-Perulangan.AssemblyInfo.cs
+E:\depaa\depaa-Perulangan\obj\Debug\net9.0\depaa-Perulangan.csproj.CoreCompileInputs.cache
+E:\depaa\depaa-Perulangan\obj\Debug\net9.0\depaa-Perulangan.dll
+E:\depaa\depaa-Perulangan\obj\Debug\net9.0\refint\depaa-Perulangan.dll
+E:\depaa\depaa-Perulangan\obj\Debug\net9.0\depaa-Perulangan.pdb
+E:\depaa\depaa-Perulangan\obj\Debug\net9.0\depaa-Perulangan.genruntimeconfig.cache
+E:\depaa\depaa-Perulangan\obj\Debug\net9.0\ref\depaa-Perulangan.dll

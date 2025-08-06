@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "depaa-Perulangan/1.0.0": {
+        "runtime": {
+          "depaa-Perulangan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "depaa-Perulangan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
