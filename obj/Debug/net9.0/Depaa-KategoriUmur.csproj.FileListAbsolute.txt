@@ -1,0 +1,14 @@
+E:\depaa\Depaa-KategoriUmur\bin\Debug\net9.0\Depaa-KategoriUmur.exe
+E:\depaa\Depaa-KategoriUmur\bin\Debug\net9.0\Depaa-KategoriUmur.deps.json
+E:\depaa\Depaa-KategoriUmur\bin\Debug\net9.0\Depaa-KategoriUmur.runtimeconfig.json
+E:\depaa\Depaa-KategoriUmur\bin\Debug\net9.0\Depaa-KategoriUmur.dll
+E:\depaa\Depaa-KategoriUmur\bin\Debug\net9.0\Depaa-KategoriUmur.pdb
+E:\depaa\Depaa-KategoriUmur\obj\Debug\net9.0\Depaa-KategoriUmur.GeneratedMSBuildEditorConfig.editorconfig
+E:\depaa\Depaa-KategoriUmur\obj\Debug\net9.0\Depaa-KategoriUmur.AssemblyInfoInputs.cache
+E:\depaa\Depaa-KategoriUmur\obj\Debug\net9.0\Depaa-KategoriUmur.AssemblyInfo.cs
+E:\depaa\Depaa-KategoriUmur\obj\Debug\net9.0\Depaa-KategoriUmur.csproj.CoreCompileInputs.cache
+E:\depaa\Depaa-KategoriUmur\obj\Debug\net9.0\Depaa-KategoriUmur.dll
+E:\depaa\Depaa-KategoriUmur\obj\Debug\net9.0\refint\Depaa-KategoriUmur.dll
+E:\depaa\Depaa-KategoriUmur\obj\Debug\net9.0\Depaa-KategoriUmur.pdb
+E:\depaa\Depaa-KategoriUmur\obj\Debug\net9.0\Depaa-KategoriUmur.genruntimeconfig.cache
+E:\depaa\Depaa-KategoriUmur\obj\Debug\net9.0\ref\Depaa-KategoriUmur.dll
