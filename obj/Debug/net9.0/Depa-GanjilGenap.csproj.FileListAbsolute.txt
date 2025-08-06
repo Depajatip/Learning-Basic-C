@@ -1,0 +1,14 @@
+E:\depaa\Depa-GanjilGenap\bin\Debug\net9.0\Depa-GanjilGenap.exe
+E:\depaa\Depa-GanjilGenap\bin\Debug\net9.0\Depa-GanjilGenap.deps.json
+E:\depaa\Depa-GanjilGenap\bin\Debug\net9.0\Depa-GanjilGenap.runtimeconfig.json
+E:\depaa\Depa-GanjilGenap\bin\Debug\net9.0\Depa-GanjilGenap.dll
+E:\depaa\Depa-GanjilGenap\bin\Debug\net9.0\Depa-GanjilGenap.pdb
+E:\depaa\Depa-GanjilGenap\obj\Debug\net9.0\Depa-GanjilGenap.GeneratedMSBuildEditorConfig.editorconfig
+E:\depaa\Depa-GanjilGenap\obj\Debug\net9.0\Depa-GanjilGenap.AssemblyInfoInputs.cache
+E:\depaa\Depa-GanjilGenap\obj\Debug\net9.0\Depa-GanjilGenap.AssemblyInfo.cs
+E:\depaa\Depa-GanjilGenap\obj\Debug\net9.0\Depa-GanjilGenap.csproj.CoreCompileInputs.cache
+E:\depaa\Depa-GanjilGenap\obj\Debug\net9.0\Depa-GanjilGenap.dll
+E:\depaa\Depa-GanjilGenap\obj\Debug\net9.0\refint\Depa-GanjilGenap.dll
+E:\depaa\Depa-GanjilGenap\obj\Debug\net9.0\Depa-GanjilGenap.pdb
+E:\depaa\Depa-GanjilGenap\obj\Debug\net9.0\Depa-GanjilGenap.genruntimeconfig.cache
+E:\depaa\Depa-GanjilGenap\obj\Debug\net9.0\ref\Depa-GanjilGenap.dll
