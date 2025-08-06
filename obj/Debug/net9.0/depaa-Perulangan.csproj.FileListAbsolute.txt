@@ -12,3 +12,4 @@ E:\depaa\depaa-Perulangan\obj\Debug\net9.0\refint\depaa-Perulangan.dll
 E:\depaa\depaa-Perulangan\obj\Debug\net9.0\depaa-Perulangan.pdb
 E:\depaa\depaa-Perulangan\obj\Debug\net9.0\depaa-Perulangan.genruntimeconfig.cache
 E:\depaa\depaa-Perulangan\obj\Debug\net9.0\ref\depaa-Perulangan.dll
+E:\depaa\depaa-Perulangan\obj\Debug\net9.0\depaa-Perulangan.sourcelink.json

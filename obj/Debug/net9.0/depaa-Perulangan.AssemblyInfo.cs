@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("depaa-Perulangan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ed3054e17ebf1447eda6cbf05fdfaaec2091bc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("depaa-Perulangan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("depaa-Perulangan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

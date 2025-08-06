@@ -8,19 +8,16 @@ public class BaskaraDepaSaputra
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Menggunakan for loop: ");
-        for (int i = 1; i <= 10; i++)
-        {
-            Console.WriteLine(i);
-        }
-        Console.WriteLine();
+        Console.WriteLine("program belajar for loop");
 
-        Console.WriteLine("Menggunakan while loop");
-        int j = 1;
-        while (j <= 10)
+        Console.Write("masukan batas angka: ");
+        int batasAtas = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Angka dari 1 hingga: " + batasAtas + ":");
+        for (int i = 1; i <= batasAtas; i++)
         {
-            Console.WriteLine(j);
-            j++;
+            Console.WriteLine(i + " ");
         }
+        Console.Write("\nselesai.");
     }
 }
