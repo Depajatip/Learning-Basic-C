@@ -1,0 +1,14 @@
+E:\depaa\Depa-TestC#\bin\Debug\net9.0\Depa-TestC#.exe
+E:\depaa\Depa-TestC#\bin\Debug\net9.0\Depa-TestC#.deps.json
+E:\depaa\Depa-TestC#\bin\Debug\net9.0\Depa-TestC#.runtimeconfig.json
+E:\depaa\Depa-TestC#\bin\Debug\net9.0\Depa-TestC#.dll
+E:\depaa\Depa-TestC#\bin\Debug\net9.0\Depa-TestC#.pdb
+E:\depaa\Depa-TestC#\obj\Debug\net9.0\Depa-TestC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\depaa\Depa-TestC#\obj\Debug\net9.0\Depa-TestC#.AssemblyInfoInputs.cache
+E:\depaa\Depa-TestC#\obj\Debug\net9.0\Depa-TestC#.AssemblyInfo.cs
+E:\depaa\Depa-TestC#\obj\Debug\net9.0\Depa-TestC#.csproj.CoreCompileInputs.cache
+E:\depaa\Depa-TestC#\obj\Debug\net9.0\Depa-TestC#.dll
+E:\depaa\Depa-TestC#\obj\Debug\net9.0\refint\Depa-TestC#.dll
+E:\depaa\Depa-TestC#\obj\Debug\net9.0\Depa-TestC#.pdb
+E:\depaa\Depa-TestC#\obj\Debug\net9.0\Depa-TestC#.genruntimeconfig.cache
+E:\depaa\Depa-TestC#\obj\Debug\net9.0\ref\Depa-TestC#.dll
