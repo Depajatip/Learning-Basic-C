@@ -6,12 +6,18 @@ using System.Threading.Tasks;
 
 public class BaskaraDepaSaputra
 {
-   static void Main()
+    static void Main()
     {
-        string[] arrayNama = new string[] { "Joni", "Meri", "david", "Sari" };
-        Console.WriteLine("Panjang arrayNama = " + arrayNama.Length);
-
-        for (int i = 0; i <= arrayNama.Length; i++)
+        Console.Write("Masukan Panjang array nama = ");
+        int panjangArray = int.Parse(Console.ReadLine());
+        string[] arrayNama = new string[panjangArray];
+        for (int i = 0; i < panjangArray; i++)
+        {
+            Console.Write("Masukan nama ke-" + i + " = ");
+            arrayNama[i] = Console.ReadLine();
+        }
+        Console.WriteLine("--Menampilkan semua elemen array--");
+        for (int i = 0; i < arrayNama.Length; i++)
         {
             Console.WriteLine("Elemen dengan indeks " + i + " = " + arrayNama[i]);
         }

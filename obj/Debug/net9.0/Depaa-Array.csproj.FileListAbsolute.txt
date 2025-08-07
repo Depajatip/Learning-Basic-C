@@ -12,3 +12,4 @@ E:\depaa\Depaa-Array\obj\Debug\net9.0\refint\Depaa-Array.dll
 E:\depaa\Depaa-Array\obj\Debug\net9.0\Depaa-Array.pdb
 E:\depaa\Depaa-Array\obj\Debug\net9.0\Depaa-Array.genruntimeconfig.cache
 E:\depaa\Depaa-Array\obj\Debug\net9.0\ref\Depaa-Array.dll
+E:\depaa\Depaa-Array\obj\Debug\net9.0\Depaa-Array.sourcelink.json
