@@ -1,0 +1,14 @@
+E:\depaa\Depaa-PerulanganJumlah\bin\Debug\net9.0\Depaa-PerulanganJumlah.exe
+E:\depaa\Depaa-PerulanganJumlah\bin\Debug\net9.0\Depaa-PerulanganJumlah.deps.json
+E:\depaa\Depaa-PerulanganJumlah\bin\Debug\net9.0\Depaa-PerulanganJumlah.runtimeconfig.json
+E:\depaa\Depaa-PerulanganJumlah\bin\Debug\net9.0\Depaa-PerulanganJumlah.dll
+E:\depaa\Depaa-PerulanganJumlah\bin\Debug\net9.0\Depaa-PerulanganJumlah.pdb
+E:\depaa\Depaa-PerulanganJumlah\obj\Debug\net9.0\Depaa-PerulanganJumlah.GeneratedMSBuildEditorConfig.editorconfig
+E:\depaa\Depaa-PerulanganJumlah\obj\Debug\net9.0\Depaa-PerulanganJumlah.AssemblyInfoInputs.cache
+E:\depaa\Depaa-PerulanganJumlah\obj\Debug\net9.0\Depaa-PerulanganJumlah.AssemblyInfo.cs
+E:\depaa\Depaa-PerulanganJumlah\obj\Debug\net9.0\Depaa-PerulanganJumlah.csproj.CoreCompileInputs.cache
+E:\depaa\Depaa-PerulanganJumlah\obj\Debug\net9.0\Depaa-PerulanganJumlah.dll
+E:\depaa\Depaa-PerulanganJumlah\obj\Debug\net9.0\refint\Depaa-PerulanganJumlah.dll
+E:\depaa\Depaa-PerulanganJumlah\obj\Debug\net9.0\Depaa-PerulanganJumlah.pdb
+E:\depaa\Depaa-PerulanganJumlah\obj\Debug\net9.0\Depaa-PerulanganJumlah.genruntimeconfig.cache
+E:\depaa\Depaa-PerulanganJumlah\obj\Debug\net9.0\ref\Depaa-PerulanganJumlah.dll
