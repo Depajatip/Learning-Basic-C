@@ -8,18 +8,29 @@ public class BaskaraDepaSaputra
 {
     static void Main()
     {
-        Console.Write("Masukan Panjang array nama = ");
-        int panjangArray = int.Parse(Console.ReadLine());
-        string[] arrayNama = new string[panjangArray];
-        for (int i = 0; i < panjangArray; i++)
+        string[] arrayRplSatu = new string[5];
+        string[] arrayRplDua = new string[5];
+        Console.WriteLine("\n=== Input Nama Siswa RPL 1 ===");
+        for (int i = 0; i < 5; i++)
         {
-            Console.Write("Masukan nama ke-" + i + " = ");
-            arrayNama[i] = Console.ReadLine();
+            Console.Write($"Masukkan nama siswa RPL 1 ke-{i + 1}: ");
+            arrayRplSatu[i] = Console.ReadLine();
         }
-        Console.WriteLine("--Menampilkan semua elemen array--");
-        for (int i = 0; i < arrayNama.Length; i++)
+        Console.WriteLine("\n=== Input Nama Siswa RPL 2 ===");
+        for (int i = 0; i < 5; i++)
         {
-            Console.WriteLine("Elemen dengan indeks " + i + " = " + arrayNama[i]);
+            Console.Write($"Masukkan nama siswa RPL 2 ke-{i + 1}: ");
+            arrayRplDua[i] = Console.ReadLine();
+        }
+        Console.WriteLine("\n=== Input Nama Siswa RPL 1 ===");
+        for (int i = 0; i < arrayRplSatu.Length; i++)
+        {
+            Console.WriteLine($"Siswa RPL 1 ke-{i + 1}: {arrayRplSatu[i]}");
+        }
+        Console.WriteLine("\n=== Input Nama Siswa RPL 2 ===");
+        for (int i = 0; i < arrayRplDua.Length; i++)
+        {
+            Console.WriteLine($"Siswa RPL 2 ke-{i + 1}: {arrayRplDua[i]}");
         }
     }
 }
