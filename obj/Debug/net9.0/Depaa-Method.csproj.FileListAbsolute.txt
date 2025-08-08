@@ -1,0 +1,14 @@
+E:\depaa\Depaa-Method\bin\Debug\net9.0\Depaa-Method.exe
+E:\depaa\Depaa-Method\bin\Debug\net9.0\Depaa-Method.deps.json
+E:\depaa\Depaa-Method\bin\Debug\net9.0\Depaa-Method.runtimeconfig.json
+E:\depaa\Depaa-Method\bin\Debug\net9.0\Depaa-Method.dll
+E:\depaa\Depaa-Method\bin\Debug\net9.0\Depaa-Method.pdb
+E:\depaa\Depaa-Method\obj\Debug\net9.0\Depaa-Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\depaa\Depaa-Method\obj\Debug\net9.0\Depaa-Method.AssemblyInfoInputs.cache
+E:\depaa\Depaa-Method\obj\Debug\net9.0\Depaa-Method.AssemblyInfo.cs
+E:\depaa\Depaa-Method\obj\Debug\net9.0\Depaa-Method.csproj.CoreCompileInputs.cache
+E:\depaa\Depaa-Method\obj\Debug\net9.0\Depaa-Method.dll
+E:\depaa\Depaa-Method\obj\Debug\net9.0\refint\Depaa-Method.dll
+E:\depaa\Depaa-Method\obj\Debug\net9.0\Depaa-Method.pdb
+E:\depaa\Depaa-Method\obj\Debug\net9.0\Depaa-Method.genruntimeconfig.cache
+E:\depaa\Depaa-Method\obj\Debug\net9.0\ref\Depaa-Method.dll
