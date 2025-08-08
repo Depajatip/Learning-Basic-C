@@ -12,3 +12,4 @@ E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\refint\Depaa-Kalkulator.dll
 E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\Depaa-Kalkulator.pdb
 E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\Depaa-Kalkulator.genruntimeconfig.cache
 E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\ref\Depaa-Kalkulator.dll
+E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\Depaa-Kalkulator.sourcelink.json
