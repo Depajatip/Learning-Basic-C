@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Depaa-Method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a438e9ddc3237fc4d8864b5b4dfc1b90da87b18b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Depaa-Method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Depaa-Method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

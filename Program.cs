@@ -8,16 +8,17 @@ public class BaskaraDepaSaputra
 {
     static void Main(string[] args)
     {
-        PrintMethodVoid();
-        Console.WriteLine(PrintMethodReturn());
+        Console.Write("Panjang : ");
+        int panjang = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Lebar : ");
+        int lebar = Convert.ToInt32(Console.ReadLine());
+
+        int luasPersegiPanjang = hitungLuasPersegiPanjang(panjang, lebar);
+        Console.WriteLine("Luas Persegi Panjang : " + luasPersegiPanjang);
     }
 
-    static void PrintMethodVoid()
+    static int hitungLuasPersegiPanjang(int panjang, int lebar)
     {
-        Console.WriteLine("Ini adalah method void");
-    }
-    static String PrintMethodReturn()
-    {
-        return "Ini adalah method return String";
+        return panjang * lebar;
     }
 }
