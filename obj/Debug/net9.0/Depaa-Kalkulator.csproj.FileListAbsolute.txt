@@ -1,0 +1,14 @@
+E:\depaa\Depaa-Kalkulator\bin\Debug\net9.0\Depaa-Kalkulator.exe
+E:\depaa\Depaa-Kalkulator\bin\Debug\net9.0\Depaa-Kalkulator.deps.json
+E:\depaa\Depaa-Kalkulator\bin\Debug\net9.0\Depaa-Kalkulator.runtimeconfig.json
+E:\depaa\Depaa-Kalkulator\bin\Debug\net9.0\Depaa-Kalkulator.dll
+E:\depaa\Depaa-Kalkulator\bin\Debug\net9.0\Depaa-Kalkulator.pdb
+E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\Depaa-Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\Depaa-Kalkulator.AssemblyInfoInputs.cache
+E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\Depaa-Kalkulator.AssemblyInfo.cs
+E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\Depaa-Kalkulator.csproj.CoreCompileInputs.cache
+E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\Depaa-Kalkulator.dll
+E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\refint\Depaa-Kalkulator.dll
+E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\Depaa-Kalkulator.pdb
+E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\Depaa-Kalkulator.genruntimeconfig.cache
+E:\depaa\Depaa-Kalkulator\obj\Debug\net9.0\ref\Depaa-Kalkulator.dll
